@@ -33,9 +33,9 @@ LOG_KANAL_ID = 1505277299409293403  # Logların gönderileceği kanalın ID'si
 YETKILI_ROL_ID = 1505277299409293403 # Yetkili ekibin rol ID'si
 
 SITE_URL = os.getenv("SITE_URL", "https://krytexnetwork.com.tr")
-DB_HOST = os.getenv("DB_HOST", "localhost")
+DB_HOST = os.getenv("DB_HOST", "cpanel-c1.leaderos.com.tr")
 DB_USER = os.getenv("DB_USER", "user6423")
-DB_PASS = os.getenv("DB_PASS", "")
+DB_PASS = os.getenv("DB_PASS", "dn245$r$TDBt ")
 DB_NAME = os.getenv("DB_NAME", "user6423")
 
 # --- VERİTABANI YARDIMCI FONKSİYONU ---
